@@ -1,0 +1,3 @@
+# Portfolio
+
+This is fully responsive portfolio website, built with React.js and Tailwind CSS for a modern, dynamic experience. The site showcases my latest projects, each accompanied by two buttons—one for a live demo and another for viewing the source code—making it easy to dive into my work. Along with project highlights, the site also provides a comprehensive overview of my skills, offering insights into the tools and technologies I specialize in. Designed to be sleek and user-friendly, this portfolio adapts smoothly across all devices, ensuring an optimal browsing experience.
